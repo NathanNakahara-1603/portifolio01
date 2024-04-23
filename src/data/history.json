@@ -1,0 +1,18 @@
+[
+  {
+    "role": "Analista de Redes e Comunicação de Dados",
+    "organisation": "Superbom Alimentos",
+    "startDate": "Fevereiro, 2022",
+    "endDate": "Presente",
+    "experiences": ["Manutenção de sistemas internos utilizando: HTML, CSS, JavaScript e PHP", "Extrações de dados do DB SQL Server, Gatilhos e Regras"],
+    "imageSrc": "history/SUP.png"
+  },
+  {
+    "role": "Analista de Dados",
+    "organisation": "Superbom Alimentos",
+    "startDate": "Janeiro, 2020",
+    "endDate": "Fevereiro, 2022",
+    "experiences": ["Analise de dados com Power BI, SQL, Python e VBA", "Desenvolvimento de Dashboards"],
+    "imageSrc": "history/SUP.png"
+  }
+]

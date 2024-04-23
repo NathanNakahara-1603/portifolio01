@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Relógio JS",
+    "imageSrc": "projects/projectClockJS.png",
+    "description": "Um relógio que roda no navegador feito em JavaScript",
+    "skills": ["JavaScript", "HTML", "TailWind CSS"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "Formulario Dark/Light",
+    "imageSrc": "projects/projectDarkLight.png",
+    "description": "Esse é um formulario que o tema pode ser alterado entre dark e light",
+    "skills": ["JavaScript", "HTML", "TailWind CSS"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "Pokedex",
+    "imageSrc": "projects/projectPokedex.png",
+    "description": "Pokedex com identificação de pokemons através de consulta a uma API",
+    "skills": ["JavaScript", "HTML", "TailWind CSS","API"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  }
+]
