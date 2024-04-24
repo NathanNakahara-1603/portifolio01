@@ -2,7 +2,7 @@
   {
     "title": "Relógio JS",
     "imageSrc": "projects/projectClockJS.png",
-    "description": "Um relógio que roda no navegador feito em JavaScript",
+    "description": "Um relógio que roda no navegador feito em JavaScript atualizado com o horario do server",
     "skills": ["JavaScript", "HTML", "TailWind CSS"],
     "demo": "https://www.example.com",
     "source": "https://www.github.com"
